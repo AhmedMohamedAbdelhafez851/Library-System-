@@ -1,0 +1,14 @@
+C:\Users\cm\Desktop\Project\Library System\obj\Debug\net8.0\Library System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cm\Desktop\Project\Library System\obj\Debug\net8.0\Library System.AssemblyInfoInputs.cache
+C:\Users\cm\Desktop\Project\Library System\obj\Debug\net8.0\Library System.AssemblyInfo.cs
+C:\Users\cm\Desktop\Project\Library System\obj\Debug\net8.0\Library System.csproj.CoreCompileInputs.cache
+C:\Users\cm\Desktop\Project\Library System\bin\Debug\net8.0\Library System.exe
+C:\Users\cm\Desktop\Project\Library System\bin\Debug\net8.0\Library System.deps.json
+C:\Users\cm\Desktop\Project\Library System\bin\Debug\net8.0\Library System.runtimeconfig.json
+C:\Users\cm\Desktop\Project\Library System\bin\Debug\net8.0\Library System.dll
+C:\Users\cm\Desktop\Project\Library System\bin\Debug\net8.0\Library System.pdb
+C:\Users\cm\Desktop\Project\Library System\obj\Debug\net8.0\Library System.dll
+C:\Users\cm\Desktop\Project\Library System\obj\Debug\net8.0\refint\Library System.dll
+C:\Users\cm\Desktop\Project\Library System\obj\Debug\net8.0\Library System.pdb
+C:\Users\cm\Desktop\Project\Library System\obj\Debug\net8.0\Library System.genruntimeconfig.cache
+C:\Users\cm\Desktop\Project\Library System\obj\Debug\net8.0\ref\Library System.dll
